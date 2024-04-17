@@ -36,9 +36,9 @@ This project provides a simple SpO2 (Blood Oxygen Saturation) and heart rate mon
 
 ## File Descriptions
 
-- `spo2_heart_rate_monitor.ino`: Arduino code for reading SpO2 and heart rate data from the MAX30105 sensor and sending it to the serial port.
+- `QUEST.ino`: Arduino code for reading SpO2 and heart rate data from the MAX30105 sensor and sending it to the serial port.
 
-- `spo2_hr_monitor.py`: Python script for receiving SpO2 and heart rate data from the serial port and logging it to a .txt file.
+- `arduino.py`: Python script for receiving SpO2 and heart rate data from the serial port and logging it to a .txt file.
 
 ## Additional Notes
 
