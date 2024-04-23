@@ -11,7 +11,7 @@ This project provides a simple SpO2 (Blood Oxygen Saturation) and heart rate mon
    - MAX30105 library
    - LiquidCrystal library (if using an LCD)
 
-3. Upload the provided Arduino code (`spo2_heart_rate_monitor.ino`) to your Arduino Uno board using the Arduino IDE or any compatible IDE.
+3. Upload the provided Arduino code (`QUEST.ino`) to your Arduino Uno board using the Arduino IDE or any compatible IDE.
 
 ## Python Setup
 
