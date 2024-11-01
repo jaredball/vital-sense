@@ -26,7 +26,7 @@ This project provides a simple SpO2 (Blood Oxygen Saturation) and heart rate mon
 
 1. Connect your Arduino Uno board to your computer via USB.
 
-2. Open the Python script (`spo2_hr_monitor.py`) in your preferred Python editor or IDE (e.g., PyCharm, VS Code).
+2. Open the Python script (`arduino.py`) in your preferred Python editor or IDE (e.g., PyCharm, VS Code).
 
 3. Modify the serial port name in the Python script to match the port your Arduino Uno board is connected to. You can find the port name in the Arduino IDE under `Tools > Port`.
 
