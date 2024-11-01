@@ -43,3 +43,13 @@ This project provides a simple SpO2 (Blood Oxygen Saturation) and heart rate mon
 ## Additional Notes
 
 - Make sure the Arduino and Python scripts are both running while collecting data.
+
+- The MAX30102 sensor has had moments where it does not turn on and collect data, the solution to this issue was not found.
+
+- The sensor's accuracy still fluctuates. Adjustments may be made to several variables to fix this, two of the most notable being the LED brightness and sample rate.
+
+- For the breadboard set up (when using an LED display), the following configuration can be used:
+
+![image](https://github.com/user-attachments/assets/24adf2ba-18e3-45f1-b302-bff1fd6d844b)
+
+![image](https://github.com/user-attachments/assets/6326c2ba-9851-4090-ba82-c65a9a69c8b2)
