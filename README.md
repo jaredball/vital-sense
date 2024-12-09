@@ -34,10 +34,6 @@ This project provides a simple SpO2 (Blood Oxygen Saturation) and heart rate mon
 
 5. Place your finger on the MAX30105 sensor to measure SpO2 and heart rate. The data will be logged to the .txt file.
 
-## Running the Project
-
-Placeholder
-
 ## File Descriptions
 
 - `QUEST.ino`: Arduino code for reading SpO2 and heart rate data from the MAX30105 sensor and sending it to the serial port.
